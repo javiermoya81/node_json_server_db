@@ -1,0 +1,64 @@
+{
+  "profesores": [
+    {
+      "nombre": "Javier",
+      "apellido": "Moya",
+      "materias": [
+        {
+          "nombre": "Lógica"
+        },
+        {
+          "nombre": "Programación I"
+        },
+        {
+          "nombre": "Datos I"
+        }
+      ],
+      "id": "4f0a"
+    },
+    {
+      "id": "f43a",
+      "nombre": "Alejo",
+      "apellido": "Gym",
+      "materias": [
+        {
+          "nombre": "Musculación"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "María",
+      "apellido": "Rodriguez",
+      "promedio": 8,
+      "id": "7f21"
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "promedio": 8.3,
+      "id": "3bee"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Html",
+      "duración": 2,
+      "dificultad": "básica",
+      "id": "c457"
+    },
+    {
+      "nombre": "JS",
+      "duración": 2,
+      "dificultad": "intermedia",
+      "id": "bfc0"
+    },
+    {
+      "nombre": "React",
+      "duración": 4,
+      "dificultad": "avanzada",
+      "id": "dc21"
+    }
+  ]
+}
